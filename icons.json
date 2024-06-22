@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-centreon": {
+        "iconPath": "icons/folder-centroen.svg"
+      },
+      "folder-centreon-open": {
+        "iconPath": "icons/folder-centreon-open.svg"
+      },
       "folder-rhel": {
         "iconPath": "icons/folder-rhel.svg"
       },
@@ -1580,6 +1586,7 @@
       }
     },
     "folderNames": {
+      "centreon": "folder-centreon",
       "rhel": "folder-rhel",
       "rhel8": "folder-rhel",
       "rhel9": "folder-rhel",
@@ -1972,6 +1979,7 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "centreon": "folder-centreon-open",
       "rhel": "folder-rhel-open",
       "rhel8": "folder-rhel-open",
       "rhel9": "folder-rhel-open",
