@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-firewall": {
+        "iconPath": "icons/folder-firewall.svg"
+      },
+      "folder-firewall-open": {
+        "iconPath": "icons/folder-firewall-open.svg"
+      },
       "folder-saltpillar": {
         "iconPath": "icons/folder-saltpillar.svg"
       },
@@ -1592,6 +1598,10 @@
       }
     },
     "folderNames": {
+      "firewall": "folder-firewall",
+      "firewalld": "folder-firewall",
+      "firewalld.d": "folder-firewall",
+      "ufw": "folder-firewall",
       "pillar": "folder-saltpillar",
       "pillars": "folder-saltpillar",
       "centreon": "folder-centreon",
@@ -1987,6 +1997,10 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "firewall": "folder-firewall-open",
+      "firewalld": "folder-firewall-open",
+      "firewalld.d": "folder-firewall-open",
+      "ufw": "folder-firewall-open",
       "pillar": "folder-saltpillar-open",
       "pillars": "folder-saltpillar-open",
       "centreon": "folder-centreon-open",
