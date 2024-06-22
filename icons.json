@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-saltpillar": {
+        "iconPath": "icons/folder-saltpillar.svg"
+      },
+      "folder-saltpillar-open": {
+        "iconPath": "icons/folder-saltpillar-open.svg"
+      },
       "folder-centreon": {
         "iconPath": "icons/folder-centroen.svg"
       },
@@ -1586,6 +1592,8 @@
       }
     },
     "folderNames": {
+      "pillar": "folder-saltpillar",
+      "pillars": "folder-saltpillar",
       "centreon": "folder-centreon",
       "rhel": "folder-rhel",
       "rhel8": "folder-rhel",
@@ -1979,6 +1987,8 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "pillar": "folder-saltpillar-open",
+      "pillars": "folder-saltpillar-open",
       "centreon": "folder-centreon-open",
       "rhel": "folder-rhel-open",
       "rhel8": "folder-rhel-open",
