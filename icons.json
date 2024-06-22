@@ -1953,6 +1953,9 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "sudoers": "folder-sudoers",
+      "sudoers.d": "folder-sudoers",
+      "sudo": "folder-sudoers",
       "src": "folder-src-open",
       "source": "folder-src-open",
       "sources": "folder-src-open",
