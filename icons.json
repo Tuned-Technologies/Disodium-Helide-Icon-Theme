@@ -1570,6 +1570,7 @@
     "folderNames": {
       "gpg": "folder-keys",
       "gpg-keys": "folder-keys",
+      "gpg_keys": "folder-keys",
       "nginx": "folder-nginx",
       "sudo": "folder-sudoers",
       "sudoers": "folder-sudoers",
@@ -1957,6 +1958,7 @@
     "folderNamesExpanded": {
       "gpg": "folder-keys-open",
       "gpg-keys": "folder-keys-open",
+      "gpg_keys": "folder-keys-open",
       "sudoers": "folder-sudoers",
       "sudoers.d": "folder-sudoers",
       "sudo": "folder-sudoers",
