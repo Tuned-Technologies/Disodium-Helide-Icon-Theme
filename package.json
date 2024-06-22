@@ -4,22 +4,22 @@
   "description": "Fork of Helium Icons with Salt Stack Icons",
   "publisher": "tunedtech",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/ThighCandy/Disodium-Helide-Icon-Theme.git"
-	},
+    "type": "git",
+    "url": "https://github.com/ThighCandy/Disodium-Helide-Icon-Theme.git"
+  },
   "icon": "logo.png",
   "keywords": [
-		"icons",
-		"theme",
-		"material",
-		"helium",
+    "icons",
+    "theme",
+    "material",
+    "helium",
     "saltstack",
     "salt",
-		"icon-theme",
-		"customization"
-	],
+    "icon-theme",
+    "customization"
+  ],
   "extensionKind": "ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.90.0"
   },
