@@ -1,0 +1,44 @@
+{
+  "name": "disodium-helide",
+  "displayName": "Disodium Helide",
+  "description": "Fork of Jelium Icons with Salt Stack Icons",
+  "publisher": "ThighCandy",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ThighCandy/Disodium-Helide-Icon-Theme.git"
+	},
+  "icon": "logo.png",
+  "keywords": [
+		"icons",
+		"theme",
+		"material",
+		"helium",
+    "saltstack",
+    "salt",
+		"icon-theme",
+		"customization"
+	],
+  "extensionKind": "ui",
+	"activationEvents": [
+		"*"
+	],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "disodium-helide-icon-theme",
+        "label": "Disodium Helid Icon Theme",
+        "path": "icons.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.29.0"
+  }
+}
