@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-modules": {
+        "iconPath": "icons/folder-modules.svg"
+      },
+      "folder-modules-open": {
+        "iconPath": "icons/folder-modules-open.svg"
+      },
       "folder-firewall": {
         "iconPath": "icons/folder-firewall.svg"
       },
@@ -1598,6 +1604,8 @@
       }
     },
     "folderNames": {
+      "modules": "folder-modules",
+      "_modules": "folders-modules",
       "firewall": "folder-firewall",
       "firewalld": "folder-firewall",
       "firewalld.d": "folder-firewall",
@@ -1998,6 +2006,8 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "modules": "folder-modules-open",
+      "_modules": "folders-modules-open",
       "firewall": "folder-firewall-open",
       "firewalld": "folder-firewall-open",
       "firewalld.d": "folder-firewall-open",

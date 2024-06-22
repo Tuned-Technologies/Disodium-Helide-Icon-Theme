@@ -6,10 +6,17 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - Centreon folder not showing
+### Added
+
+- Folder icons for "_modules"
+- Folder icons for "modules"
 ## [0.3.6] - 2024-06-22
 ### Fixed
 
 - Centreon open folder icon now being displayed
+### Added
+
+- Icons for "redhat" folderss
 
 ## [0.3.5] - 2024-06-22
 
