@@ -2,9 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased]
+## [0.3.6] - 2024-06-22
+### Fixed
 
-- /
+- Centreon open folder icon now being displayed
 
 ## [0.3.5] - 2024-06-22
 
