@@ -19,7 +19,7 @@
     "customization"
   ],
   "extensionKind": "ui",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "engines": {
     "vscode": "^1.90.0"
   },
