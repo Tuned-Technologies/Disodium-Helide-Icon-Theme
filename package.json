@@ -1,7 +1,7 @@
 {
   "name": "disodium-helide",
   "displayName": "Disodium Helide",
-  "description": "Fork of Jelium Icons with Salt Stack Icons",
+  "description": "Fork of Helium Icons with Salt Stack Icons",
   "publisher": "tunedtech",
   "repository": {
 		"type": "git",
