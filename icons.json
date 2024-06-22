@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-duo": {
+        "iconPath": "icons/folder-duo.svg"
+      },
+      "folder-duo-open": {
+        "iconPath": "icons/folder-duo-open.svg"
+      },
       "folder-nginx": {
         "iconPath": "icons/folder-nginx.svg"
       },
@@ -1568,6 +1574,7 @@
       }
     },
     "folderNames": {
+      "duo": "folder-duo",
       "gpg": "folder-keys",
       "gpg-keys": "folder-keys",
       "gpg_keys": "folder-keys",
@@ -1956,6 +1963,7 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "duo": "folder-duo-open",
       "gpg": "folder-keys-open",
       "gpg-keys": "folder-keys-open",
       "gpg_keys": "folder-keys-open",
