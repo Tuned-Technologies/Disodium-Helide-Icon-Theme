@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-rhel": {
+        "iconPath": "icons/folder-rhel.svg"
+      },
+      "folder-rhel-open": {
+        "iconPath": "icons/folder-rhel-open.svg"
+      },
       "folder-duo": {
         "iconPath": "icons/folder-duo.svg"
       },
@@ -1574,6 +1580,9 @@
       }
     },
     "folderNames": {
+      "rhel": "folder-rhel",
+      "rhel8": "folder-rhel",
+      "rhel9": "folder-rhel",
       "duo": "folder-duo",
       "gpg": "folder-keys",
       "gpg-keys": "folder-keys",
@@ -1963,6 +1972,9 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "rhel": "folder-rhel-open",
+      "rhel8": "folder-rhel-open",
+      "rhel9": "folder-rhel-open",
       "duo": "folder-duo-open",
       "gpg": "folder-keys-open",
       "gpg-keys": "folder-keys-open",
