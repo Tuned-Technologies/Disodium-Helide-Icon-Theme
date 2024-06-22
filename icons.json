@@ -1568,6 +1568,8 @@
       }
     },
     "folderNames": {
+      "gpg": "folder-keys",
+      "gpg-keys": "folder-keys",
       "nginx": "folder-nginx",
       "sudo": "folder-sudoers",
       "sudoers": "folder-sudoers",
@@ -1953,6 +1955,8 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "gpg": "folder-keys-open",
+      "gpg-keys": "folder-keys-open",
       "sudoers": "folder-sudoers",
       "sudoers.d": "folder-sudoers",
       "sudo": "folder-sudoers",
