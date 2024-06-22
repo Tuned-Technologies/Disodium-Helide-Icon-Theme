@@ -1,5 +1,8 @@
 {
     "iconDefinitions": {
+      "folder-sudoers": {
+        "iconPath": "icons/folder-sudoers.svg"
+      },
       "salt": {
         "iconPath": "icons/salt.svg"
       },
@@ -1562,6 +1565,9 @@
       }
     },
     "folderNames": {
+      "sudo": "folder-sudoers",
+      "sudoers": "folder-sudoers",
+      "sudoers.d": "folder-sudoers",
       "src": "folder-src",
       "source": "folder-src",
       "sources": "folder-src",
