@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Tuned-Technologies/Disodium-Helide-Icon-Theme/blob/main/logo.png?raw=true" alt="disodium helide file icon" width="100%">
 
-[![Version](https://vsmarketplacebadges.dev/version/TunedTech.disodium-helide.svg)](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
+[![Version](https://vsmarketplacebadges.dev/version/TunedTech.disodium-helide.svg)](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) [![Installs](https://vsmarketplacebadges.dev/installs-short/TunedTech.disodium-helide.svg)]
 
 A fork of the [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) extension, specifically adding file and folders icons geared towards SaltStack configurations.
 
@@ -112,6 +112,7 @@ Press `Ctrl-Shift-P` to open the command palette and type `Helium Icons`.
 ## Icon sources
 
 - [Material Design Icons](https://materialdesignicons.com/)
+- [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
 - official icons
 
-Based off of the original [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.helium-icon-theme)
+Based off of [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme)
