@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - Folder icons for DUO Security
 - Folder icons for Centreon
 - Folder icons for SaltStack Pillars
+- Folder icons for Firewalld and UFW
 
 ## [0.0.1] - 2024-06-22
 
