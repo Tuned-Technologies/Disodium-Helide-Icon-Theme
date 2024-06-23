@@ -7,6 +7,8 @@
 
 A fork of the [Helium Icon Theme](https://marketplace.visualstudio.com/items?itemName=helgardrichard.helium-icon-theme) extension, specifically adding file and folders icons geared towards SaltStack configurations.
 
+This is a personal project so please take it with a grain of salt!
+
 #### Customize folder color
 
 You can change the color of the default folder icon using the command palette:
