@@ -10,6 +10,17 @@ All notable changes to this project will be documented in this file.
 
 - Folder icons for "_modules"
 - Folder icons for "modules"
+- Folder icons for "salt"
+- Folder icons for "salt-stack"
+- Folder icons for "saltstack"
+- Folder icons for "state"
+- Folder icons for "states"
+
+
+### Changed
+
+- Folder icons for pillars
+- Folder icons for pillar
 ## [0.3.6] - 2024-06-22
 ### Fixed
 

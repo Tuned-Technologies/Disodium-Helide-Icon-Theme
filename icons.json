@@ -1,5 +1,11 @@
 {
     "iconDefinitions": {
+      "folder-salt": {
+        "iconPath": "icons/folder-salt.svg"
+      },
+      "folder-salt-open": {
+        "iconPath": "icons/folder-salt-open.svg"
+      },
       "folder-modules": {
         "iconPath": "icons/folder-modules.svg"
       },
@@ -1604,6 +1610,11 @@
       }
     },
     "folderNames": {
+      "salt": "folder-salt",
+      "salt-stack": "folder-salt",
+      "saltstack": "folder-salt",
+      "state": "folder-salt",
+      "states": "folder-salt",
       "modules": "folder-modules",
       "_modules": "folders-modules",
       "firewall": "folder-firewall",
@@ -2006,6 +2017,11 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "salt": "folder-salt-open",
+      "salt-stack": "folder-salt-open",
+      "saltstack": "folder-salt-open",
+      "state": "folder-salt-open",
+      "states": "folder-salt-open",
       "modules": "folder-modules-open",
       "_modules": "folders-modules-open",
       "firewall": "folder-firewall-open",
