@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.8] - 2024-06-23
+- Folder icons for "salt-master"
+- Folder icons for "saltmaster"
+- Folder icons for "salt-minion"
+- Folder icons for "saltminion"
+
 ## [0.3.7] - 2024-06-22
 ### Fixed
 
