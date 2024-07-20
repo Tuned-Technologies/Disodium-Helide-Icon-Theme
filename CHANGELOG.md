@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4] - 2024-07-19
+### Fixed
+
+- Folder icons for NGINX
+- Folder icons for modules
+- Folder icons for sudoers
+
+### Added
+
+- Folder icons for Squid Proxy
+- Folder icons for Envoy Proxy
+- Folder icons for Netdisco
+- Folder icons for Windows
+- Alternate names for Salt
+- Alertnate names for Centreon
+- Alternate names for DUO
+
 ## [0.3.8] - 2024-06-23
 - Folder icons for "salt-master"
 - Folder icons for "saltmaster"

@@ -1,5 +1,29 @@
 {
     "iconDefinitions": {
+      "folder-netdisco": {
+        "iconPath": "icons/folder-netdisco.svg"
+      },
+      "folder-netdisco-open": {
+        "iconPath": "icons/folder-netdisco-open.svg"
+      },
+      "folder-windows": {
+        "iconPath": "icons/folder-windows.svg"
+      },
+      "folder-windows-open": {
+        "iconPath": "icons/folder-windows-open.svg"
+      },
+      "folder-envoy": {
+        "iconPath": "icons/folder-envoy.svg"
+      },
+      "folder-envoy-open": {
+        "iconPath": "icons/folder-envoy-open.svg"
+      },
+      "folder-squid": {
+        "iconPath": "icons/folder-squid.svg"
+      },
+      "folder-squid-open": {
+        "iconPath": "icons/folder-squid-open.svg"
+      },
       "folder-salt": {
         "iconPath": "icons/folder-salt.svg"
       },
@@ -42,8 +66,14 @@
       "folder-duo-open": {
         "iconPath": "icons/folder-duo-open.svg"
       },
+      "folder-nginx-open": {
+        "iconPath": "icons/folder-nginx-open.svg"
+      },
       "folder-nginx": {
         "iconPath": "icons/folder-nginx.svg"
+      },
+      "folder-sudoers-open": {
+        "iconPath": "icons/folder-sudoers-open.svg"
       },
       "folder-sudoers": {
         "iconPath": "icons/folder-sudoers.svg"
@@ -1610,8 +1640,24 @@
       }
     },
     "folderNames": {
+      "disco": "folder-netdisco",
+      "dasco": "folder-netdisco",
+      "netdisco": "folder-netdisco",
+      "net-disco": "folder-netdisco",
+      "net_disco": "folder-netdisco",
+      "windows": "folder-windows",
+      "win": "folder-windows",
+      "envoy": "folder-envoy",
+      "envoy-proxy": "folder-envoy",
+      "envoy_proxy": "folder-envoy",
+      "envoyproxy": "folder-envoy",
+      "squid": "folder-squid",
+      "squidproxy": "folder-squid",
+      "squid-proxy": "folder-squid",
+      "squid_proxy": "folder-squid",
       "salt": "folder-salt",
       "salt-stack": "folder-salt",
+      "salt_stack": "folder-salt",
       "saltstack": "folder-salt",
       "salt-minion": "folder-salt",
       "saltminion": "folder-salt",
@@ -1620,7 +1666,7 @@
       "state": "folder-salt",
       "states": "folder-salt",
       "modules": "folder-modules",
-      "_modules": "folders-modules",
+      "_modules": "folder-modules",
       "firewall": "folder-firewall",
       "firewalld": "folder-firewall",
       "firewalld.d": "folder-firewall",
@@ -1628,10 +1674,21 @@
       "pillar": "folder-saltpillar",
       "pillars": "folder-saltpillar",
       "centreon": "folder-centreon",
+      "centreon-nsclient": "folder-centreon",
       "rhel": "folder-rhel",
       "rhel8": "folder-rhel",
       "rhel9": "folder-rhel",
       "redhat": "folder-rhel",
+      "duoauthproxies": "folder-duo",
+      "duoauth-proxies": "folder-duo",
+      "duoauth_proxies": "folder-duo",
+      "duoauthproxy": "folder-duo",
+      "duoauth-proxy": "folder-duo",
+      "duoauth_proxy": "folder-duo",
+      "duo_auth_proxies": "folder-duo",
+      "duo-auth-proxies": "folder-duo",
+      "duo_auth_proxy": "folder-duo",
+      "duo-auth-proxy": "folder-duo",
       "duo": "folder-duo",
       "gpg": "folder-keys",
       "gpg-keys": "folder-keys",
@@ -2021,17 +2078,33 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "disco": "folder-netdisco-open",
+      "dasco": "folder-netdisco-open",
+      "netdisco": "folder-netdisco-open",
+      "net-disco": "folder-netdisco-open",
+      "net_disco": "folder-netdisco-open",
+      "windows": "folder-windows-open",
+      "win": "folder-windows-open",
+      "envoy": "folder-envoy-open",
+      "envoy-proxy": "folder-envoy-open",
+      "envoy_proxy": "folder-envoy-open",
+      "envoyproxy": "folder-envoy-open",
+      "squid": "folder-squid-open",
+      "squidproxy": "folder-squid-open",
+      "squid_proxy": "folder-squid-open",
+      "squid-proxy": "folder-squid-open",
       "salt": "folder-salt-open",
       "salt-stack": "folder-salt-open",
       "saltstack": "folder-salt-open",
       "salt-minion": "folder-salt-open",
       "saltminion": "folder-salt-open",
+      "salt_master": "folder-salt-open",
       "salt-master": "folder-salt-open",
       "saltmaster": "folder-salt-open",
       "state": "folder-salt-open",
       "states": "folder-salt-open",
       "modules": "folder-modules-open",
-      "_modules": "folders-modules-open",
+      "_modules": "folder-modules-open",
       "firewall": "folder-firewall-open",
       "firewalld": "folder-firewall-open",
       "firewalld.d": "folder-firewall-open",
@@ -2039,17 +2112,29 @@
       "pillar": "folder-saltpillar-open",
       "pillars": "folder-saltpillar-open",
       "centreon": "folder-centreon-open",
+      "centreon-nsclient": "folder-centreon-open",
       "rhel": "folder-rhel-open",
       "rhel8": "folder-rhel-open",
       "rhel9": "folder-rhel-open",
       "redhat": "folder-rhel-open",
+      "duoauthproxies": "folder-duo-open",
+      "duoauth-proxies": "folder-duo-open",
+      "duoauth_proxies": "folder-duo-open",
+      "duoauthproxy": "folder-duo-open",
+      "duoauth-proxy": "folder-duo-open",
+      "duoauth_proxy": "folder-duo-open",
+      "duo_auth_proxies": "folder-duo-open",
+      "duo-auth-proxies": "folder-duo-open",
+      "duo_auth_proxy": "folder-duo-open",
+      "duo-auth-proxy": "folder-duo-open",
       "duo": "folder-duo-open",
       "gpg": "folder-keys-open",
       "gpg-keys": "folder-keys-open",
       "gpg_keys": "folder-keys-open",
-      "sudoers": "folder-sudoers",
-      "sudoers.d": "folder-sudoers",
-      "sudo": "folder-sudoers",
+      "nginx": "folder-nginx-open",
+      "sudoers": "folder-sudoers-open",
+      "sudoers.d": "folder-sudoers-open",
+      "sudo": "folder-sudoers-open",
       "src": "folder-src-open",
       "source": "folder-src-open",
       "sources": "folder-src-open",
