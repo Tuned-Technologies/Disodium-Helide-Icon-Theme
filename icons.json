@@ -1,5 +1,26 @@
 {
     "iconDefinitions": {
+      "kea": {
+        "iconPath": "icons/kea.svg"
+      },
+      "folder-kea": {
+        "iconPath": "icons/folder-kea.svg"
+      }
+      ,"folder-kea-open": {
+        "iconPath": "icons/folder-kea-open.svg"
+      },
+      "folder-ssh": {
+        "iconPath": "icons/folder-ssh.svg"
+      },
+      "folder-ssh-open": {
+        "iconPath": "icons/folder-ssh-open.svg"
+      }
+      ,"folder-sonicwall": {
+        "iconPath": "icons/folder-sonicwall.svg"
+      },
+      "folder-sonicwall-open": {
+        "iconPath": "icons/folder-sonicwall-open.svg"
+      },
       "folder-netdisco": {
         "iconPath": "icons/folder-netdisco.svg"
       },
@@ -1640,6 +1661,19 @@
       }
     },
     "folderNames": {
+      "kea": "folder-kea",
+      "kea-dhcp": "folder-kea",
+      "kea-dhcp4": "folder-kea",
+      "kea-dhcp6": "folder-kea",
+      ".ssh": "folder-ssh",
+      "ssh": "folder-ssh",
+      ".sshd": "folder-ssh",
+      "sshd": "folder-ssh",
+      "sonic": "folder-sonicwall",
+      "sonicwall": "folder-sonicwall",
+      "sonic-wall": "folder-sonicwall",
+      "sonic_wall": "folder-sonicwall",
+      "snwl": "folder-sonicwall",
       "disco": "folder-netdisco",
       "dasco": "folder-netdisco",
       "netdisco": "folder-netdisco",
@@ -2078,6 +2112,19 @@
       "svgs": "folder-svg"
     },
     "folderNamesExpanded": {
+      "kea": "folder-kea-open",
+      "kea-dhcp": "folder-kea-open",
+      "kea-dhcp4": "folder-kea-open",
+      "kea-dhcp6": "folder-kea-open",
+      ".ssh": "folder-ssh-open",
+      "ssh": "folder-ssh-open",
+      ".sshd": "folder-ssh-open",
+      "sshd": "folder-ssh-open",
+      "sonic": "folder-sonicwall-open",
+      "sonicwall": "folder-sonicwall-open",
+      "sonic-wall": "folder-sonicwall-open",
+      "sonic_wall": "folder-sonicwall-open",
+      "snwl": "folder-sonicwall-open",
       "disco": "folder-netdisco-open",
       "dasco": "folder-netdisco-open",
       "netdisco": "folder-netdisco-open",
@@ -3016,6 +3063,13 @@
       "moon": "moonscript"
     },
     "fileNames": {
+      "kea-dhcp/kea-dhcp4.conf": "kea",
+      "kea-dhcp/kea-dhcp6.conf": "kea",
+      "kea-dhcp/dhcp4.conf": "kea",
+      "kea-dhcp/dhcp6.conf": "kea",
+      "kea-dhcp/dhcp.conf": "kea",
+      "kea-dhcp/ipv6.conf": "kea",
+      "kea-dhcp/ipv4.conf": "kea",
       ".jscsrc": "json",
       ".jshintrc": "json",
       "tsconfig.json": "json",

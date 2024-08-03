@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.1] - 2024-08-02
+### Added
+
+- Folder icons for Sonicwalls
+- Folder icons for SSH
+- Folder icons for Kea DHCP
+- File icons for Kea DHCP configuration files within Kea DHCP folders
+
+
 ## [0.4] - 2024-07-19
 ### Fixed
 
